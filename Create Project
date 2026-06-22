@@ -1,0 +1,10 @@
+# fullstak-task-in-1-
+mkdir ecommerce-site
+cd ecommerce-site
+npm init -y
+
+         
+          ------install packages-------
+          
+npm install express mongoose bcryptjs jsonwebtoken cors dotenv
+npm install nodemon --save-dev
