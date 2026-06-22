@@ -1,0 +1,35 @@
+ecommerce-site/
+│
+├── server.js
+├── package.json
+├── .env
+│
+├── models/
+│   ├── User.js
+│   ├── Product.js
+│   └── Order.js
+│
+├── routes/
+│   ├── auth.js
+│   ├── product.js
+│   ├── cart.js
+│   └── order.js
+│
+├── public/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── app.js
+│   └── images/
+│
+├── views/
+│   ├── index.html
+│   ├── products.html
+│   ├── product-details.html
+│   ├── cart.html
+│   ├── login.html
+│   ├── register.html
+│   └── orders.html
+│
+└── database/
+    └── mongodb
