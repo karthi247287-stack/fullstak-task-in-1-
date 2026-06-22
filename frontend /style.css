@@ -1,0 +1,16 @@
+body{
+    font-family:Arial;
+}
+
+.card{
+    width:250px;
+    border:1px solid gray;
+    padding:20px;
+    margin:20px;
+    display:inline-block;
+}
+
+img{
+    width:200px;
+    height:200px;
+}
